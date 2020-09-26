@@ -10,5 +10,5 @@
 My name is Mateus and I'm front-end developer.
 
  - 💙 In love with JavaScript
- - 🤓 Currently learning ReactJS, React Native and NodeJS (back-end)
+ - 🤓 Currently learning ReactJS, React Native and NodeJS
  - 😄 Also UI/UX Designer
