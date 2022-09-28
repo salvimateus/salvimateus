@@ -5,8 +5,8 @@
 
 ### Hello! 👋 Welcome to my Github profile
 
-My name is Mateus and I'm front-end developer.
+My name is Mateus Salvi and I'm front-end developer.
 
  - 💙 In love with JavaScript
- - 🤓 Currently learning ReactJS, React Native and NodeJS
- - 😄 Also UI/UX Designer
+ - 🤓 Currently working with ReactJS and NextJS
+ - 😄 Also UI/UX Designer and WordPress Specialist
