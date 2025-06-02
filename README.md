@@ -6,8 +6,8 @@
 
 My name is Mateus Salvi and I'm front-end developer.
 
- - 💙 In love with JavaScript
- - 🤓 Currently working with NextJS
+ - 💙 In love with JavaScript and PHP
+ - 🤓 Currently working with WordPress + NextJS
  - 😄 Also:
    - UI/UX Designer
    - WordPress Specialist
